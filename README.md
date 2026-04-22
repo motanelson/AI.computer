@@ -5,3 +5,11 @@ https://www.raspberrypi.com/products/raspberry-pi-5/
 
 
 
+https://www.raspberrypi.com/products/ai-hat-plus-2/
+
+
+
+
+
+
+
