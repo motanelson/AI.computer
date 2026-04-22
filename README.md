@@ -1,2 +1,1 @@
-# jsc
-template javaScript compiler compiles .js into .elf
+herebuild a AI computer
